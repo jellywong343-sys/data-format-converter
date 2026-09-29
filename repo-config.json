@@ -1,0 +1,11 @@
+{
+  "name": "data-format-converter",
+  "description": "Convert records between CSV, JSON arrays, and JSON Lines with encoding and delimiter controls.",
+  "topics": [
+    "python",
+    "csv",
+    "json",
+    "jsonlines",
+    "data-conversion"
+  ]
+}

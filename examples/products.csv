@@ -1,0 +1,4 @@
+id,name,price,active
+1,Keyboard,199.00,true
+2,Mouse,89.00,true
+3,Monitor,1299.00,false
